@@ -1,1 +1,2 @@
-<script>alert(window.origin)</script>
+alert(window.origin);
+alert(document.cookie);
