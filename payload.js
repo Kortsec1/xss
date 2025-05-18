@@ -1,1 +1,1 @@
-<script>alert(windows.origin)</script>
+<script>alert(window.origin)</script>
