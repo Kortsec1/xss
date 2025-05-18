@@ -1,1 +1,1 @@
-parent.postMessage('asdfasdfasdfadsf');
+parent.postMessage('asdfasdfasdfadsf', '*');
