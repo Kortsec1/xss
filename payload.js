@@ -1,5 +1,0 @@
-<script>
-alert(1);
-alert(window.origin);
-alert(document.cookie);
-</script>
